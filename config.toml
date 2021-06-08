@@ -1,6 +1,6 @@
 baseURL = "https://petscool.vercel.app/"
 languageCode = "en-us"
-title = "petslover"
+title = "petscool"
 theme = "gridarticle"
 
 [taxonomies]
