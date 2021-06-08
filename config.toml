@@ -1,4 +1,4 @@
-baseURL = "https://petscool.vercel.app/"
+baseURL = "https://petscool.vercel.app//"
 languageCode = "en-us"
 title = "petscool"
 theme = "gridarticle"
